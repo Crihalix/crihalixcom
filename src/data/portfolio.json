@@ -1,0 +1,30 @@
+[
+    {
+        "slug": "tehnokredo",
+        "title": "Технокредо",
+        "discription": "Машазин мебели под вашы требования",
+        "type": "Интернет магазин",
+        "topic": "shop"
+    },
+    {   
+        "slug": "luxoptica",
+        "title": "Люксоптика",
+        "discription": "Машазин Очкуляров",
+        "type": "Интернет магазин",
+        "topic": "shop"
+    },
+    {
+        "slug": "tehnokredo",
+        "title": "Технокредо",
+        "discription": "Машазин мебели под вашы требования",
+        "type": "Интернет магазин",
+        "topic": "shop"
+    },
+    {   
+        "slug": "luxoptica",
+        "title": "Люксоптика",
+        "discription": "Машазин Очкуляров",
+        "type": "Интернет магазин",
+        "topic": "shop"
+    }
+]
